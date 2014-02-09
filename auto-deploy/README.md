@@ -1,8 +1,10 @@
-Auto-Deploy (Runs on port 8005) - Link
+### Auto-Deploy (Runs on port 8005) - [Link](https://github.com/logsol/Github-Auto-Deploy) ###
+
 	Github -> Service Hook -> Website
 	Update the file (GitAutoDeploy.conf.json)
 
 Change url and path
+
 	Start the server by typing:
 		- python GitAutoDeploy.py --daemon-mode
 	GitHub Service Hook URL

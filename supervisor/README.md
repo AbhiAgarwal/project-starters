@@ -1,7 +1,7 @@
-installation
+Installation
 
     pip install supervisor
 
-unlink
+Unlink
 
     unlink supervisord.sock

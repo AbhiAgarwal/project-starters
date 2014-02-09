@@ -1,2 +1,4 @@
-apt-get install python-setuptools
-easy_install pip
+Installation
+
+    apt-get install python-setuptools
+    easy_install pip

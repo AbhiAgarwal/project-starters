@@ -1,1 +1,3 @@
-python generate.py
+Installation
+
+    python generate.py
