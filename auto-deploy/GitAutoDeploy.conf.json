@@ -1,0 +1,9 @@
+{
+	"port": 8005, 
+	"repositories": 
+	[{
+		"url": "https://github.com/AbhiAgarwal/Tornado-Template", 
+		"path": "/srv/www/domainname.com/",
+		"deploy": "echo deploy"
+	}]
+}
