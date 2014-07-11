@@ -1,5 +1,7 @@
 Installation
 
+Sometimes needing `sudo apt-get update`
+
     apt-get install git or sudo apt-get -y install git-core
     cd ~/.ssh
     ls
